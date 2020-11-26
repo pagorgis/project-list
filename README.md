@@ -1,5 +1,5 @@
 # List of Projects by Paul Gorgis
-###List of Git repositories and links to projects I've participated in:
+### List of Git repositories and links to projects I've participated in:
 
 **THS Armada website**
 - React
