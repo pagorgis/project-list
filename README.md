@@ -1,6 +1,11 @@
 # List of Projects by Paul Gorgis
 **List of Git repositories and links to projects I've participated in:**
 
+THS Armada website
+- React
+- https://armada.nu/
+- https://github.com/armada-ths/armada.nu
+
 BoomRacoon - Tinder but for interests. Must be experienced in mobile view.
 - React/redux + Firebase
 - https://github.com/freyrdanielsson/BoomRacoon
