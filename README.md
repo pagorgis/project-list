@@ -19,6 +19,10 @@
 - https://github.com/pagorgis/lifescore-frontend
 - https://github.com/pagorgis/lifescore-api
 
-(ACTIVE) Android app for accessing news from different parts of the world.
-
 (ACTIVE) Multimodal project, tech/languages undecided at this point.
+
+**The classic board game Othello in augmented reality (ARthello)**
+- Unity (C#) + Vuforia
+- (Link will be available soon)
+
+(ACTIVE) Android app for accessing news from different parts of the world.
