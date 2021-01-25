@@ -19,8 +19,6 @@
 - https://github.com/pagorgis/lifescore-frontend
 - https://github.com/pagorgis/lifescore-api
 
-(ACTIVE) Multimodal project, tech/languages undecided at this point.
-
 **The classic board game Othello in augmented reality (ARthello)**
 - Unity (C#) + Vuforia
 - (Link will be available soon)
