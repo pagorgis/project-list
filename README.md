@@ -21,6 +21,6 @@
 
 **The classic board game Othello in augmented reality (ARthello)**
 - Unity (C#) + Vuforia
-- (Link will be available soon)
+- https://github.com/pagorgis/arthello-project
 
 (ACTIVE) Android app for accessing news from different parts of the world.
