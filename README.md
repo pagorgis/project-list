@@ -23,4 +23,7 @@
 - Unity (C#) + Vuforia
 - https://github.com/pagorgis/arthello-project
 
-(ACTIVE) Android app for accessing news from different parts of the world.
+**(SOON AVAILABLE) Website for accessing news from different parts of the world.**
+- Java (Spring Boot) + Angular
+- Link to backend repo when completed
+- Link to frontend repo when completed
